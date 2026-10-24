@@ -1,5 +1,13 @@
-# Welcome to GitHub Desktop!
+# 闪匣 FlashCase
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+> 一个没有广告的 Flash / 网页游戏大厅。
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+[![最新版本](https://img.shields.io/github/v/release/1960847544/flashcase?label=最新版本)](../../releases/latest)
+[![下载](https://img.shields.io/badge/下载-Windows%20x64-2F6BFF)](../../releases/latest)
+
+**49 / 86 / 100 三内核自动适配**，让洛克王国、赛尔号、小花仙、4399、7k7k
+这些老页游在 2026 年还能打开。
+
+> 本仓库只发布 Windows 安装包，不提供源代码。
+
+![大厅](docs/lobby.png)
